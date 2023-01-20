@@ -1,10 +1,6 @@
 <h2>Hi! My name is Guilherme ✌</h2>
 
-<p>I'm a programmer from Brazil, I started to programming in 2020 when I went to study <b>Computer Technician at IFPR</b>. My goal is to become a Full-Stack developer. Currently I have more knowledge in Front-End, but i intend to continue studying to perform in both, Back-End and Front-End.</p>
-
-<p>• I'm attending Technical High School at the Federal Institute of Paraná (IFPR).</p>
-
-<p>• I was a medalist three times in a row at the Brazilian Mathematics Olympiad for Public and Private Schools (OBMEP), I won scholarships and scientific initiation courses at the State University of Londrina (UEL) offered by the National Institute of Pure and Applied Mathematics (IMPA). Besides participating in the Mentors program, which are two more courses offered only to those who have been awarded three or more times.</p>
+<p align="justify">I'm a programmer from Brazil, I started to programming in 2020 when I started to study <b>Computer Technician at IFPR</b>. My goal is to become a Full-Stack developer. Currently I have more knowledge in Front-End, but i intend to continue studying to perform in both, Back-End and Front-End. I was a medalist three times in a row at the Brazilian Mathematics Olympiad for Public and Private Schools (OBMEP), I won scholarships and scientific initiation courses at the State University of Londrina (UEL) offered by the National Institute of Pure and Applied Mathematics (IMPA). Besides participating in the Mentors program, which are two more courses offered only to those who have been awarded three or more times.</p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=guilherme-mattos-conde" height="150" alt="stats graph"  />
