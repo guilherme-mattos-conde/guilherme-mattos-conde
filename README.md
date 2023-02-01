@@ -1,4 +1,4 @@
-<h2>Hi! My name is Guilherme ✌</h2>
+<h1>Hi! My name is Guilherme ✌</h1>
 
 <p align="justify">I'm a programmer from Brazil, I started to programming in 2020 when I started to study <b>Computer Technician at IFPR</b>. My goal is to become a Full-Stack developer. Currently I have more knowledge in Front-End, but i intend to continue studying to perform in both, Back-End and Front-End. I was a medalist three times in a row at the Brazilian Mathematics Olympiad for Public and Private Schools (OBMEP), I won scholarships and scientific initiation courses at the State University of Londrina (UEL) offered by the National Institute of Pure and Applied Mathematics (IMPA). Besides participating in the Mentors program, which are two more courses offered only to those who have been awarded three or more times.</p>
 
